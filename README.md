@@ -1,5 +1,8 @@
-## Hi there 👋
-
+**You are the** ![](http://profile-counter.glitch.me/EZ118/count.svg) **visitor to my homepage.**   
+   
+![](https://bad-apple-github-readme.vercel.app/api?show_bg=0&username=EZ118)   
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZ118)
 <!--
 **EZ118/EZ118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
